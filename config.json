@@ -1,0 +1,33 @@
+{
+  "guildId": "1475700930333900915",
+  "github": {
+    "owner": "67rizzlerrr",
+    "repo": "Ranks",
+    "branch": "main",
+    "path": "ranks.json"
+  },
+  "inactiveRoleId": "",
+  "ownerUserIds": [
+    "1221941884818161736"
+  ],
+  "ranks": [
+    {
+      "name": "Commander",
+      "roleId": "1497554134629617905",
+      "badge": "CM",
+      "note": "Live Discord rank",
+      "tag": "CMD",
+      "accent": "t1",
+      "featured": false
+    },
+    {
+      "name": "Officer",
+      "roleId": "1485464838233653379",
+      "badge": "OF",
+      "note": "Live Discord rank",
+      "tag": "LIVE",
+      "accent": "founder",
+      "featured": false
+    }
+  ]
+}

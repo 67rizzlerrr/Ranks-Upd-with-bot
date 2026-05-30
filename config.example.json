@@ -1,0 +1,87 @@
+{
+  "guildId": "1475700930333900915",
+  "github": {
+    "owner": "67rizzlerrr",
+    "repo": "Ranks",
+    "branch": "main",
+    "path": "ranks.json"
+  },
+  "inactiveRoleId": "",
+  "ownerUserIds": [
+    "1221941884818161736"
+  ],
+  "ranks": [
+    {
+      "name": "Founder",
+      "roleId": "DISCORD_ROLE_ID_HERE",
+      "badge": "F",
+      "note": "Live Discord rank",
+      "tag": "TOP",
+      "accent": "founder",
+      "featured": true
+    },
+    {
+      "name": "Co-Founder",
+      "roleId": "DISCORD_ROLE_ID_HERE",
+      "badge": "CF",
+      "note": "Live Discord rank",
+      "tag": "LEAD",
+      "accent": "cofounder",
+      "featured": false
+    },
+    {
+      "name": "Head Admin",
+      "roleId": "DISCORD_ROLE_ID_HERE",
+      "badge": "HA",
+      "note": "Live Discord rank",
+      "tag": "STAFF",
+      "accent": "headadmin",
+      "featured": false
+    },
+    {
+      "name": "Commander",
+      "roleId": "1497554134629617905",
+      "badge": "CM",
+      "note": "Live Discord rank",
+      "tag": "CMD",
+      "accent": "t1",
+      "featured": false
+    },
+    {
+      "name": "Skywalker T3",
+      "roleId": "DISCORD_ROLE_ID_HERE",
+      "badge": "T3",
+      "note": "Live Discord rank",
+      "tag": "ELITE",
+      "accent": "t3",
+      "featured": false
+    },
+    {
+      "name": "Skywalker T2",
+      "roleId": "DISCORD_ROLE_ID_HERE",
+      "badge": "T2",
+      "note": "Live Discord rank",
+      "tag": "SMP",
+      "accent": "t2",
+      "featured": false
+    },
+    {
+      "name": "Skywalker T1",
+      "roleId": "DISCORD_ROLE_ID_HERE",
+      "badge": "T1",
+      "note": "Live Discord rank",
+      "tag": "ACTIVE",
+      "accent": "t1",
+      "featured": true
+    },
+    {
+      "name": "Awaiting Testing",
+      "roleId": "DISCORD_ROLE_ID_HERE",
+      "badge": "?",
+      "note": "Live Discord rank",
+      "tag": "QUEUE",
+      "accent": "testing",
+      "featured": false
+    }
+  ]
+}

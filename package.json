@@ -1,0 +1,14 @@
+{
+  "name": "discord-rank-web-updater",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^21.1.1",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0"
+  }
+}
